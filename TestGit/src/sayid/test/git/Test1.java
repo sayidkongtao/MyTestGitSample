@@ -6,6 +6,8 @@ public class Test1 {
 	private String userSex;
 	private String pW;
 	private long id;
+
+	private String hwz;
 	public String getUserName() {
 		return userName;
 	}
